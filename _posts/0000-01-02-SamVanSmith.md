@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "GitHub is tough to figure out"
 
 ---
 
